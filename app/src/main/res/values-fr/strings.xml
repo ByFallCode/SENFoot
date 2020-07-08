@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SENFoot</string>
+    <string name="navigation_drawer_open">Ouvrir menu</string>
+    <string name="navigation_drawer_close">Fermer menu</string>
+    <string name="nav_header_title">SENFoot</string>
+    <string name="nav_header_subtitle">Le Foot local autrement</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Gallerie</string>
+    <string name="menu_slideshow">Slide</string>
+    <string name="menu_help">Aide</string>
+    <string name="menu_team">Equipes</string>
+    <string name="menu_meet">Rencontres</string>
+    <string name="menu_match">Match</string>
+    <string name="menu_result">Resultats</string>
+</resources>
